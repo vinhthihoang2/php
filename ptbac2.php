@@ -71,7 +71,7 @@ function phuongTrinhBac2($a, $b, $c) {
    <td><input type="text" name="so_b" value="<?=$so_b?>" /></td>
   </tr>
   <tr>
-   <td>Nhap vao <!--  --></td>
+   <td>Nhap vao c</td>
    <td><input type="text" name="so_c" value="<?=$so_c?>" /></td>
   </tr>
   <tr>
